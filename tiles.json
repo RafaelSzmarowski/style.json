@@ -16,7 +16,7 @@
     "profile": "mercator",
     "version": "1",
     "generator": "MapTiler Desktop Pro 11.1-2ae5f855e2",
-    "attribution": "\x3cimg src=x onerror=alert(document.location)\x3e",
+    "attribution": "<img src=x onerror=alert(document.location) />",
     "description": "",
     "vector_layers": [
     {
