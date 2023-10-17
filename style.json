@@ -536,7 +536,7 @@
     ],
     "bearing": 0,
     "sources": {
-        "image": {
+        "maplibre": {
             "url": "https://raw.githubusercontent.com/RafaelSzmarowski/style.json/main/rick.svg",
             "type": "image",
             "coordinates": [
