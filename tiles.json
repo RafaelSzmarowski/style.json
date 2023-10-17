@@ -16,7 +16,7 @@
     "profile": "mercator",
     "version": "1",
     "generator": "MapTiler Desktop Pro 11.1-2ae5f855e2",
-    "attribution": "<img src=x onerror=alert(document.location) />",
+    "attribution": "Hello from tiles",
     "description": "",
     "vector_layers": [
     {
